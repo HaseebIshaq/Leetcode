@@ -30,4 +30,4 @@ python streamlit.py
 - This solution converts the integer to a string and compares it with its reverse to determine if it is a palindrome or not.
   
 ## Results
-This solution converts the integer to a string and compares it with its reverse to determine if it is a palindrome or not. This memory usage gives a **94.44%** of the Beat score among other solutions and beats **95.88%** of the runtime.
+This solution converts the integer to a string and compares it with its reverse to determine if it is a palindrome or not. This code's memory usage gives a **94.44%** of the Beat score among other solutions and beats **95.88%** of the runtime.
