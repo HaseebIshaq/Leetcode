@@ -35,4 +35,4 @@ python streamlit.py
 - If the complement is not present in the dictionary, we store the current number num and its index in the dictionary.
 - If no solution is found after iterating through the entire array, we return an empty list.
 ## Results
-This solution has a time complexity of O(n), where n is the length of the input array nums. This memory usage gives a **93.05%** of the Beat score among other solutions and beats **95.78%** of the runtime.
+This solution has a time complexity of O(n), where n is the length of the input array nums. This code's memory usage gives a **93.05%** of the Beat score among other solutions and beats **95.78%** of the runtime.
